@@ -8,6 +8,8 @@
 	<name>SpringWind Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+
+
 	<properties>
 		<servlet-api.version>2.5</servlet-api.version>
 		<spring-wind.version>1.1.5</spring-wind.version>
