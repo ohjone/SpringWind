@@ -7,6 +7,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 public class HttpHelper {
 
+
 	/**
 	 * 获取 HttpServletRequest
 	 */
