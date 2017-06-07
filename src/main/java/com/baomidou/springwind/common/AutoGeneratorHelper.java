@@ -27,6 +27,7 @@ public class AutoGeneratorHelper {
 	 * 更多使用查看 http://mp.baomidou.com
 	 * </p>
 	 */
+
 	public static void main(String[] args) {
 		AutoGenerator mpg = new AutoGenerator();
 
